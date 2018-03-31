@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884004868331",
+    "firebase_url": "https://noteo-e1f11.firebaseio.com",
+    "project_id": "noteo-e1f11",
+    "storage_bucket": "noteo-e1f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884004868331:android:f617dfbf140340be",
+        "android_client_info": {
+          "package_name": "com.code.myspace.noteo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884004868331-d5due8c956p1174qhfmkvtd1clpm4mgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.code.myspace.noteo",
+            "certificate_hash": "7ed6411f84c9c8b659e7c76cdddcd743d0cf8705"
+          }
+        },
+        {
+          "client_id": "884004868331-pn0a052k7acekrsa0g52b4hub296jg26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYkuJW119103-5qP9C2xwqdM4zlXOm37c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884004868331-pn0a052k7acekrsa0g52b4hub296jg26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
